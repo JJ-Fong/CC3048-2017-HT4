@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'hoja_trabajo4.apps.HojaTrabajo4Config',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
